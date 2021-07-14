@@ -1,0 +1,40 @@
+---
+title: "Session info"
+author: "Dr. Chris Moreh"
+date: "15 July 2021"
+output:
+  html_document:
+    css: teachRstyle.css
+---
+
+These notes accompany a 'mini-lecture' introducing a quantitative method aimed at first year undergraduate students enrolled on a module such as **Introductory Quantitative Data Analysis for Social Scientists**. The lecture is on the topic of *Analysis of Variance (ANOVA)* and is imagined as sitting in the second half of a one-semester traditional-style introductory statistics module that look something like this:
+
++-----------+---------------------------------------------------------+
+| Week      | Topic and lecture demonstration                         |
++===========+=========================================================+
+| 1         | Introducing data                                        |
++-----------+---------------------------------------------------------+
+| 2         | Exploring categorical data                              |
++-----------+---------------------------------------------------------+
+| 3         | Exploring numerical data                                |
++-----------+---------------------------------------------------------+
+| 4         | Probability and Distributions                           |
++-----------+---------------------------------------------------------+
+| 5         | Statistical inference and hypothesis testing            |
++-----------+---------------------------------------------------------+
+| 6         | Contingency tables and the $\chi2$ test                 |
++-----------+---------------------------------------------------------+
+| 7         | Comparing two means: **the t-test**                     |
++-----------+---------------------------------------------------------+
+| 8         | [Comparing several means: **ANOVA**]{.ul}               |
++-----------+---------------------------------------------------------+
+| 9         | **Correlation** and simple **linear regression**        |
++-----------+---------------------------------------------------------+
+| 10        | Multiple regression and prediction                      |
++-----------+---------------------------------------------------------+
+| 11        | Causal inference: Confounders, Mediators and Colliders  |
++-----------+---------------------------------------------------------+
+
+Lectures are accompanied by lecture notes that provide more detail on the statistical procedure covered and allow for the examples used in the lecture to be reproduced by students in `R`. Most of the instruction on the module would take place in labs, where students practice coding and problem-solving following an `RMarkdown` script where they combine their code, output and interpretations. 
+
+Even though the course follows a classical design building on NHST procedures, the aim is nevertheless to emphasize a more unified methodological perspective by working in formula-style syntax and the `mosaic` package. The examples and exercises use real data from various social surveys (e.g. ESS, EVS, WVS, UKHLS/USoc) and various exercises focus on reproducing published results from social science journal articles to provide a better understanding of how published results are achieved.

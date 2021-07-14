@@ -1,0 +1,14 @@
+/* Whole document: */
+body{
+  font-size: 14pt;
+}
+/* Headers */
+h1,h2,h3,h4,h5,h6{
+  font-size: 20pt;
+}
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 15px;
+    border-left: 20px solid #eee;
+}

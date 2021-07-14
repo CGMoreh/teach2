@@ -1,0 +1,14 @@
+---
+name: "courses"
+output_dir: "docs"
+navbar:
+  title: "Introductory Quantitative Data Analysis for Social Scientists"
+  left:
+  - text: "Session info"
+    href: index.html
+  - text: "Week 8"
+    href: anova_example.html
+output:
+  html_document:
+    theme: cosmo
+---
