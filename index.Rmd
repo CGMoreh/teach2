@@ -1,5 +1,5 @@
 ---
-title: Introduction to SSC7001M
+title: "Introduction to SSC7001M"
 author: "Dr. Chris Moreh"
 date: "15 July 2021"
 output:
