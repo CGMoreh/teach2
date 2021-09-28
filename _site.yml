@@ -1,8 +1,8 @@
 ---
-name: "courses"
+name: "SSC7001M"
 output_dir: "docs"
 navbar:
-  title: "Introductory Quantitative Data Analysis for Social Scientists"
+  title: "Advanced Research Methods 1"
   left:
   - text: "Session info"
     href: index.html
